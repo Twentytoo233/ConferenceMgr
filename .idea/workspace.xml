@@ -5,45 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fc66d7d-7ea8-45b8-b22a-b63c1af5eb3d" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/项目.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/deps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/auth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/checkins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/configs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/dashboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/departments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/logs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/meetings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/api/v1/users.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/core/security.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/crud/crud_checkin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/crud/crud_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/crud/crud_department.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/crud/crud_meeting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/models/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/models/department.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/schemas/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/schemas/dashboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/schemas/department.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/schemas/token.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/app/schemas/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_main.http" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/ruoyi-fastapi-backend/module_admin/controller/face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1749742195108</updated>
       <workItem from="1749742197237" duration="4513000" />
-      <workItem from="1749826016101" duration="2398000" />
+      <workItem from="1749826016101" duration="4275000" />
     </task>
     <servers />
   </component>
