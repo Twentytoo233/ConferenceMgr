@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fc66d7d-7ea8-45b8-b22a-b63c1af5eb3d" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/ruoyi-fastapi-backend/module_admin/controller/meeting_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ruoyi-fastapi-backend/utils/face_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/ruoyi-fastapi-backend/utils/face_recognition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <updated>1749742195108</updated>
       <workItem from="1749742197237" duration="4513000" />
       <workItem from="1749826016101" duration="5948000" />
-      <workItem from="1750001335313" duration="2579000" />
+      <workItem from="1750001335313" duration="3229000" />
     </task>
     <servers />
   </component>
